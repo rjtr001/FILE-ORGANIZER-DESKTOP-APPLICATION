@@ -1,12 +1,5 @@
 # File Organizer Desktop Application
 
-## Resume Project Description
-**FILE ORGANIZER DESKTOP APPLICATION**	*[Date Range]*
-- Developed and implemented a cross-platform desktop application for efficient file management using Electron and TypeScript, enhancing user productivity and file organization capabilities.
-- Engineered a robust architecture with Webpack integration, implementing modern development practices and ensuring optimal application performance.
-- Designed and implemented an intuitive user interface, resulting in improved user experience and streamlined file management workflows.
-- Successfully delivered a production-ready application with comprehensive build and deployment pipelines, demonstrating end-to-end project execution capabilities.
-
 A modern desktop application built with Electron for organizing and managing files efficiently.
 
 ## Features
