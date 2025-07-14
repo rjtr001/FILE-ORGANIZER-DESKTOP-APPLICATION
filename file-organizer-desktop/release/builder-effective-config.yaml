@@ -1,0 +1,19 @@
+directories:
+  output: release
+  buildResources: build
+appId: com.fileorganizer.app
+productName: File Organizer
+files:
+  - filter:
+      - dist/**/*
+      - assets/**/*
+mac:
+  icon: assets/icons/icon.png
+  category: public.app-category.productivity
+win:
+  icon: assets/icons/icon.ico
+  target: nsis
+linux:
+  icon: assets/icons/icon.png
+  target: AppImage
+electronVersion: 25.9.8
